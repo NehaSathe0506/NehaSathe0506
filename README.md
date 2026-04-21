@@ -16,33 +16,26 @@
 ---
 
 ## 🌐 Connect With Me:
-<p  <a href="https://github.com/NehaSathe0506">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
- align="center">
+<p align="center">
+  
+  <a href="https://github.com/NehaSathe0506">
+    <img src="https://img.shields.io/badge/GitHub-NehaSathe0506-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
   <a href="https://www.linkedin.com/in/neha-sathe-1b9ab4331">
-  <img src="https://img.shields.io/badge/LinkedIn-Neha%20Sathe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+    <img src="https://img.shields.io/badge/LinkedIn-Neha%20Sathe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
   <a href="https://instagram.com/nehaaa.sathe">
-  <img src="https://img.shields.io/badge/Instagram--E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-</p>
+    <img src="https://img.shields.io/badge/Instagram-nehaaa.sathe-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 
+</p>
 ---
 
 # 💻 Tech Stack:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,git,github" />
-</p>
-
----
-
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&theme=tokyonight&hide_border=true"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=YourUsername&theme=tokyonight&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
