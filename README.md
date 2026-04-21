@@ -21,10 +21,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-Neha%20Sathe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
   <a href="https://github.com/NehaSathe0506">
-  <img src="https://img.shields.io/badge/GitHub-NehaSathe0506-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
   <a href="https://instagram.com/nehaaa.sathe">
-  <img src="https://img.shields.io/badge/Instagram-nehaaa.sathe-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram--E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
 
@@ -32,12 +32,6 @@
 
 # 💻 Tech Stack:
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <br/>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,git,github" />
 </p>
 
