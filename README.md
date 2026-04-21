@@ -1,6 +1,3 @@
-# 💫 About Me:
-<h3 align="center">Hi 👋, I'm Neha Sathe</h3>
-
 <!-- Typing Animation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Neha+Sathe;Aspiring+Software+Developer;Java+%7C+Python+%7C+DSA+%7C+Web+Dev;Building+Projects+🚀" />
