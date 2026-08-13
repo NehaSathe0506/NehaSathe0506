@@ -170,21 +170,6 @@ New builds in GenAI, RAG, and full-stack are always in progress — see [pinned 
 
 <br/>
 
-## 📈 By the Numbers
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NehaSathe0506&show_icons=true&theme=dark&hide_border=true&bg_color=0F172A&title_color=10B981&icon_color=10B981&text_color=E2E8F0" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaSathe0506&layout=compact&theme=dark&hide_border=true&bg_color=0F172A&title_color=10B981&text_color=E2E8F0" height="165">
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NehaSathe0506&theme=dark&hide_border=true&background=0F172A&ring=10B981&fire=10B981&currStreakLabel=10B981" height="165">
-
-</div>
-
-<br/>
-
 <h2 id="contact">📬 Contact</h2>
 
 <div align="center">
